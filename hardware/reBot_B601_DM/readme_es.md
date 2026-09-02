@@ -77,6 +77,12 @@ El roce continuado del arnés de cableado del motor 1 puede desgastar el conecto
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | Clips de arnés de cableado para ambos lados del motor 1 | <img src="./3D_Printed_Parts/images/DM_Motor1_wiring_harness_clip.jpg" width="80"> | `DM_Motor1_wiring_harness_clip.stp` | ABS Bambu Lab negro | 2 | boquilla de 0.4 mm, altura de capa de 0.2 mm, relleno del 30% |
 
+## 📷 Soporte de cámara compatible
+
+| Descripción de la pieza | Imagen | Nombre de archivo | Material | Cant. | Notas |
+|----------|------|--------|------|----------|------|
+| [Orbbec Gemini2](https://www.seeedstudio.com/Orbbec-Gemini-2-3D-Camera-p-6464.html) | <img src="./3D_Printed_Parts/images/Gemini2_mount.png" width="80"> | [`D435_Gemini2_Mount.step`](./3D_Printed_Parts/D435_Gemini2_Mount.step) | Bambu ABS Negro | 1 | Boquilla 0.4 mm, altura de capa 0.2 mm, relleno 30 % |
+
 ### 🧩 Recomendaciones de impresión
 - Altura de capa: 0.2 mm
 - Boquilla: 0.4 mm
@@ -132,7 +138,7 @@ Si tienes un taladro eléctrico o herramientas similares, puedes optar por compr
 
   | Nombre | Especificación / Modelo | Cantidad | Precio de referencia | Notas |
   |------|----------|------|----------|------|
-  | Motor sin escobillas | DM4310(V4) | 4 | 120 $/unidad | [SeeedStudio](https://www.seeedstudio.com/DIP-Servo-Motor-24V-120RPM-Brushless-98-9mm-4P-L56-W56-H46mm-p-6660.html) |
+  | Motor sin escobillas | DM4310(V4) | 4 | 120 $/unidad | [SeeedStudio](https://www.seeedstudio.com/Damiao-4310-Actuator-Motor-p-6823.html) |
   | Motor sin escobillas | DM4340P(V4) | 3 | 175 $/unidad |  [SeeedStudio](https://www.seeedstudio.com/DM4340P-Actuator-p-6663.html)  |
   | Placa driver CAN-USB |  | 1 | 15 $/unidad |   [SeeedStudio](https://www.seeedstudio.com/DM-CAN-USB-Driver-Borad-p-6706.html)   |
   | Rodamiento | 6707ZZ | 1 | 13 $/unidad | [Amazon](https://www.amazon.com/uxcell-35x44x5mm-Shielded-Precision-Lubricated/dp/B0D6WBMW3F/ref=sr_1_1?crid=3J03FBU7MI31J&dib=eyJ2IjoiMSJ9.sfX192-ZSyqh-VJEgq6jR02DrJcdVTxBbKWn5TLypwoK7NyklXkZSQT-3V42_zTm98_Y8dLCtnTzJ9JVnPuBG7bfvUYv0ctrasWhZgU5DFtl2y0CtKLOUOoukmlHqCfonkjZLapmfzSVAaV-3CJYhqizbjedl6zGoDUNo2ryKd4RbtRhJXndBmf96HwTPrPH8g8KB2NPyhnPaP36r6C0Ehdb0xrqjNzKt7YcM7xkZ_8.QvCzMQ0EPe3-5SBYNcuoO5L-Yx0CSr9Vmjc-Ma7FzbY&dib_tag=se&keywords=6707ZZ&qid=1774771772&sprefix=6707zz%2Caps%2C376&sr=8-1) |
