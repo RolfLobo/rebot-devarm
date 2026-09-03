@@ -192,8 +192,8 @@ reBot-DevArm 专为桌面级具身智能应用设计，兼顾了负载能力与�
 ### 兼容主臂（Leader Arm）
 | Star Arm 102-LD | 欢迎各类机械臂兼容接入 |
 | --- | --- |
-|  <img src="/hardware/reBot_B601_DM/3D_Printed_Parts/images/star_arm_102.jpg" height="100">  | 即将上线 |
-|  [Github 仓库](https://github.com/servodevelop/Star-Arm-102) | 即将上线 |
+|  <img src="/hardware/reBot_B601_DM/3D_Printed_Parts/images/star_arm_102.jpg" height="100">  | [购买链接](https://www.seeedstudio.com/Star-Arm-102-p-6765.html) |
+|  [Github 仓库](https://github.com/servodevelop/Star-Arm-102) | [购买链接](https://www.seeedstudio.com/Star-Arm-102-p-6765.html) |
 
 ### 爪子DIY
 | 柔性手指 | 开放兼容集成拓展 |

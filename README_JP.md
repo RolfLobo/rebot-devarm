@@ -205,8 +205,8 @@ reBot-DevArm は、デスクトップ向け Embodied AI アプリケーション
 ### マスターアーム（Leader Arm）対応
 | Star Arm 102-LD | 各種アームの接続・互換に対応予定 |
 | --- | --- |
-|  <img src="/hardware/reBot_B601_DM/3D_Printed_Parts/images/star_arm_102.jpg" height="100">  | 近日公開 |
-|  [Githubリポジトリ](https://github.com/servodevelop/Star-Arm-102) | 近日公開 |
+|  <img src="/hardware/reBot_B601_DM/3D_Printed_Parts/images/star_arm_102.jpg" height="100">  | [購入リンク](https://www.seeedstudio.com/Star-Arm-102-p-6765.html) |
+|  [Githubリポジトリ](https://github.com/servodevelop/Star-Arm-102) | [購入リンク](https://www.seeedstudio.com/Star-Arm-102-p-6765.html) |
 
 ### DIY ソフトフィンガー
 | ソフトフィンガー | 互換性統合に対応可能 |
