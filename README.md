@@ -139,8 +139,8 @@ We are committed to continuously maintaining and adapting to mainstream robot de
 | **Assembly Video** | ✅ Completed | Ultra-detailed assembly steps and video | [Getting Started with reBot Arm B601-DM](https://wiki.seeedstudio.com/rebot_b601_dm_getting_started/) |
 | **Python SDK** | ✅Continuously optimized, PRs welcome | One-stop integration of motor read/write and control for Robstride, Damiao, Mota, Gaoqing, Hexfellow and other motors. | [Getting Started with Motorbridge](https://motorbridge.seeedstudio.com) and [Web UI](https://rebot-devarm.w0x7ce.eu/)|
 | **ROS2 Integration** | ✅ Completed | ROS2 integrated reBot Arm controller with support for kinematics, trajectory planning, and gravity compensation | [reBot Arm B601-DM ROS2 Integration Guide](https://wiki.seeedstudio.com/rebot_arm_b601_dm_ros2_integration/) |
-| **Pinocchio Integration** |  ✅ Completed  | Adaptation to the Pinocchio framework, enabling forward/inverse kinematics and gravity compensation for the robotic arm | [Getting Started with Pinocchio for reBot Arm B601-DM](https://wiki.seeedstudio.com/rebot_arm_b601_dm_pinocchio_meshcat/) and [Github repo](https://github.com/vectorBH6/reBotArm_control_py) |
-| **Isaac Sim Simulation** | 🚧 In Progress  | Import USD models and enable simulated teleoperation | [delay for add additional courses: 2026.06.20] |
+| **Pinocchio Integration** |  ✅ Completed  | Adaptation to the Pinocchio framework, enabling forward/inverse kinematics and gravity compensation for the robotic arm | [Getting Started with Pinocchio for reBot Arm B601-DM](https://wiki.seeedstudio.com/rebot_arm_b601_dm_pinocchio_meshcat/) and [Github repo](https://github.com/Seeed-Projects/reBotArm_control_py) |
+| **Isaac Sim Simulation** | 🚧 In Progress  | Import USD models and enable simulated teleoperation | [Wiki](https://wiki.seeedstudio.com/rebot_arm_b601_dm_isaacsim/) |
 | **LeRobot Integration** | ✅ Completed  | Adaptation to the Hugging Face LeRobot training framework | [Getting Started with LeRobot-based reBot Arm](https://wiki.seeedstudio.com/rebot_arm_b601_dm_lerobot/) |
 | **Depth Camera Integration** | ✅ Completed  | Visual Grasping Demonstration Based on YOLO and Depth Camera | [Getting Started with Visual Grasping Demo](https://wiki.seeedstudio.com/rebot_arm_b601_dm_grasping_demo/) |
 | **reSpeaker Voice Integration** | ✅ Completed  | Add reSpeaker Flex 4-mic array to build a voice-driven intelligent robot arm control system with spatial awareness | [reBot Arm B601-DM Voice Control](https://wiki.seeedstudio.com/control_rebot_arm_using_voice_with_respeaker_flex/) |
@@ -162,9 +162,9 @@ We are committed to continuously maintaining and adapting to mainstream robot de
 | **Assembly Video** | ✅ Completed | Ultra-detailed assembly steps and video | [reBot Arm B601-RS Assembly Video](https://wiki.seeedstudio.com/rebot_b601_rs_getting_started/) |
 | **ROS2 (Humble)** | ✅ Completed | ROS2 integrated reBot Arm controller with support for kinematics, trajectory planning, gravity compensation and MoveIt2 | [reBot Arm B601-DM ROS2 Integration Guide](https://wiki.seeedstudio.com/rebot_arm_b601_rs_ros2_integration/) |
 | **LeRobot Integration** |✅ Completed| Adaptation to the Hugging Face LeRobot training framework | [Getting Started with LeRobot-based reBot Arm](https://wiki.seeedstudio.com/rebot_arm_b601_rs_lerobot/) |
-| **Pinocchio Integration** | ✅ Completed | Adaptation to the Pinocchio framework, enabling forward/inverse kinematics and gravity compensation for the robotic arm | [Getting Started with Pinocchio for reBot Arm B601-DM](https://wiki.seeedstudio.com/rebot_arm_b601_rs_pinocchio_meshcat/) and [Github repo](https://github.com/vectorBH6/reBotArm_control_py) |
+| **Pinocchio Integration** | ✅ Completed | Adaptation to the Pinocchio framework, enabling forward/inverse kinematics and gravity compensation for the robotic arm | [Getting Started with Pinocchio for reBot Arm B601-DM](https://wiki.seeedstudio.com/rebot_arm_b601_rs_pinocchio_meshcat/) and [Github repo](https://github.com/Seeed-Projects/reBotArm_control_py) |
 | **Depth Camera Integration** | ✅ Completed  | Visual Grasping Demonstration Based on YOLO and Depth Camera | [Getting Started with Visual Grasping Demo](https://wiki.seeedstudio.com/rebot_arm_b601_dm_grasping_demo/) |
-| **Isaac Sim Simulation** |✅ Completed  | Import USD models and enable simulated teleoperation | [Github Repo](https://github.com/Seeed-Projects/reBot-Isaacsim) |
+| **Isaac Sim Simulation** |✅ Completed  | Import USD models and enable simulated teleoperation |[DLI Course](https://www.seeedstudio.com/sim-to-real-with-seeed-rebot-and-nvidia-isaac) & [Github Repo](https://github.com/Seeed-Projects/reBot-Isaacsim) |
 | **Gradual Updates of the Latest Algorithms** | ⏳ Planned | Mainstream algorithms will be updated progressively | On going |
 | **Launch of a Series of Completely Free Courses** | ⏳ Planned | Mainstream algorithms will be updated progressively | Ongoing |
 
@@ -206,8 +206,7 @@ reBot-DevArm is designed for desktop Embodied AI applications, balancing payload
 ###  Compatible with Leader Arm
 | Star Arm 102-LD  |  Open to compatibility integration  | 
 | --- | --- |
-|  <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/star_arm_102.jpg" height="100">  | [Purchase](https://www.seeedstudio.com/Star-Arm-102-p-6765.html) |
-|  [Github repo](https://github.com/servodevelop/Star-Arm-102) | [Purchase](https://www.seeedstudio.com/Star-Arm-102-p-6765.html) |
+|  <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/star_arm_102.jpg" height="100">  | [View Series Hub](https://fashionstar.com.hk/robot-arm/star-arm-102/) &[Github repo](https://github.com/servodevelop/Star-Arm-102) |
 
 ### DIY Finger
 | Soft Finger  |  Open to compatibility integration  | 

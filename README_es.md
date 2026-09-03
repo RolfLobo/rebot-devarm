@@ -140,8 +140,8 @@ Estamos comprometidos con el mantenimiento y la adaptación continuos a los prin
 | **Vídeo de montaje** | ✅ Completado | Pasos de montaje ultradetallados y vídeo | [Getting Started with reBot Arm B601-DM](https://wiki.seeedstudio.com/rebot_b601_dm_getting_started/) |
 | **Python SDK** | ✅ En optimización continua, PR bienvenidos | Integración todo en uno de lectura/escritura y control de motores Robstride, Damiao, Mota, Gaoqing, Hexfellow y otros. | [Getting Started with Motorbridge](https://motorbridge.seeedstudio.com) y [Web UI](https://rebot-devarm.w0x7ce.eu/)|
 | **Integración con ROS2** | ✅ Completado | Controlador de reBot Arm integrado en ROS2 compatible con cinemática, planificación de trayectorias y compensación de gravedad | [reBot Arm B601-DM ROS2 Integration Guide](https://wiki.seeedstudio.com/rebot_arm_b601_dm_ros2_integration/) |
-| **Integración con Pinocchio** |  ✅ Completado  | Adaptación al framework Pinocchio, que habilita la cinemática directa/inversa y la compensación de gravedad del brazo robótico | [Getting Started with Pinocchio for reBot Arm B601-DM](https://wiki.seeedstudio.com/rebot_arm_b601_dm_pinocchio_meshcat/) y [Repositorio de GitHub](https://github.com/vectorBH6/reBotArm_control_py) |
-| **Simulación en Isaac Sim** | 🚧 En curso  | Importación de modelos USD y teleoperación simulada | [retrasado para añadir cursos adicionales: 20/06/2026] |
+| **Integración con Pinocchio** |  ✅ Completado  | Adaptación al framework Pinocchio, que habilita la cinemática directa/inversa y la compensación de gravedad del brazo robótico | [Getting Started with Pinocchio for reBot Arm B601-DM](https://wiki.seeedstudio.com/rebot_arm_b601_dm_pinocchio_meshcat/) y [Repositorio de GitHub](https://github.com/Seeed-Projects/reBotArm_control_py) |
+| **Simulación en Isaac Sim** | 🚧 En curso  | Importación de modelos USD y teleoperación simulada |[Wiki](https://wiki.seeedstudio.com/rebot_arm_b601_dm_isaacsim/) |
 | **Integración con LeRobot** | ✅ Completado  | Adaptación al framework de entrenamiento LeRobot de Hugging Face | [Getting Started with LeRobot-based reBot Arm](https://wiki.seeedstudio.com/rebot_arm_b601_dm_lerobot/) |
 | **Integración con cámara de profundidad** | ✅ Completado  | Demostración de agarre visual basada en YOLO y cámara de profundidad | [Getting Started with Visual Grasping Demo](https://wiki.seeedstudio.com/rebot_arm_b601_dm_grasping_demo/) |
 | **Integración de voz con reSpeaker** | ✅ Completado  | Añade la matriz de 4 micrófonos reSpeaker Flex para construir un sistema inteligente de control por voz del brazo robótico con percepción espacial | [reBot Arm B601-DM Voice Control](https://wiki.seeedstudio.com/control_rebot_arm_using_voice_with_respeaker_flex/) |
@@ -163,9 +163,9 @@ Estamos comprometidos con el mantenimiento y la adaptación continuos a los prin
 | **Vídeo de montaje** | ✅ Completado | Pasos de montaje ultradetallados y vídeo | [reBot Arm B601-RS Assembly Video](https://wiki.seeedstudio.com/rebot_b601_rs_getting_started/) |
 | **ROS2 (Humble)** | ✅ Completado | Controlador de reBot Arm integrado en ROS2 compatible con cinemática, planificación de trayectorias, compensación de gravedad y MoveIt2 | [reBot Arm B601-RS ROS2 Integration Guide](https://wiki.seeedstudio.com/rebot_arm_b601_rs_ros2_integration/) |
 | **Integración con LeRobot** |✅ Completado| Adaptación al framework de entrenamiento LeRobot de Hugging Face | [Getting Started with LeRobot-based reBot Arm](https://wiki.seeedstudio.com/rebot_arm_b601_rs_lerobot/) |
-| **Integración con Pinocchio** | ✅ Completado | Adaptación al framework Pinocchio, que habilita la cinemática directa/inversa y la compensación de gravedad del brazo robótico | [Getting Started with Pinocchio for reBot Arm B601-RS](https://wiki.seeedstudio.com/rebot_arm_b601_rs_pinocchio_meshcat/) y [Repositorio de GitHub](https://github.com/vectorBH6/reBotArm_control_py) |
+| **Integración con Pinocchio** | ✅ Completado | Adaptación al framework Pinocchio, que habilita la cinemática directa/inversa y la compensación de gravedad del brazo robótico | [Getting Started with Pinocchio for reBot Arm B601-RS](https://wiki.seeedstudio.com/rebot_arm_b601_rs_pinocchio_meshcat/) y [Repositorio de GitHub](https://github.com/Seeed-Projects/reBotArm_control_py) |
 | **Integración con cámara de profundidad** | ✅ Completado  | Demostración de agarre visual basada en YOLO y cámara de profundidad | [Getting Started with Visual Grasping Demo](https://wiki.seeedstudio.com/rebot_arm_b601_dm_grasping_demo/) |
-| **Simulación en Isaac Sim** |✅ Completado  | Importación de modelos USD y teleoperación simulada | [Repositorio de GitHub](https://github.com/Seeed-Projects/reBot-Isaacsim) |
+| **Simulación en Isaac Sim** |✅ Completado  | Importación de modelos USD y teleoperación simulada | [DLI Course](https://www.seeedstudio.com/sim-to-real-with-seeed-rebot-and-nvidia-isaac) & [Repositorio de GitHub](https://github.com/Seeed-Projects/reBot-Isaacsim) |
 | **Actualizaciones graduales con los últimos algoritmos** | ⏳ Planificado | Los algoritmos principales se irán actualizando progresivamente | En curso |
 | **Lanzamiento de una serie de cursos completamente gratuitos** | ⏳ Planificado | Se publicará progresivamente una serie de cursos gratuitos | En curso |
 
@@ -208,8 +208,7 @@ reBot-DevArm está diseñado para aplicaciones de sobremesa de IA corpórea, equ
 ###  Compatible con el Leader Arm
 | Star Arm 102-LD  |  Abierto a integraciones de compatibilidad  | 
 | --- | --- |
-|  <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/star_arm_102.jpg" height="100">  | [Enlace de compra](https://www.seeedstudio.com/Star-Arm-102-p-6765.html) |
-|  [Repositorio de GitHub](https://github.com/servodevelop/Star-Arm-102) | [Enlace de compra](https://www.seeedstudio.com/Star-Arm-102-p-6765.html) |
+|  <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/star_arm_102.jpg" height="100">  | [View Series Hub](https://fashionstar.com.hk/robot-arm/star-arm-102/) &[Github repo](https://github.com/servodevelop/Star-Arm-102) |
 
 ### Dedo DIY
 | Dedo blando  |  Abierto a integraciones de compatibilidad  | 
