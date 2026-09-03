@@ -210,8 +210,8 @@ reBot-DevArm is designed for desktop Embodied AI applications, balancing payload
 ###  Compatible with Leader Arm
 | Star Arm 102-LD  |  Open to compatibility integration  | 
 | --- | --- |
-|  <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/star_arm_102.jpg" height="100">  |Comming soon| 
-|  [Github repo](https://github.com/servodevelop/Star-Arm-102) |Comming soon |
+|  <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/star_arm_102.jpg" height="100">  | [Purchase](https://www.seeedstudio.com/Star-Arm-102-p-6765.html) |
+|  [Github repo](https://github.com/servodevelop/Star-Arm-102) | [Purchase](https://www.seeedstudio.com/Star-Arm-102-p-6765.html) |
 
 ### DIY Finger
 | Soft Finger  |  Open to compatibility integration  | 

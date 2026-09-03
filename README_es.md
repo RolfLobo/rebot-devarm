@@ -211,8 +211,8 @@ reBot-DevArm está diseñado para aplicaciones de sobremesa de IA corpórea, equ
 ###  Compatible con el Leader Arm
 | Star Arm 102-LD  |  Abierto a integraciones de compatibilidad  | 
 | --- | --- |
-|  <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/star_arm_102.jpg" height="100">  |Próximamente| 
-|  [Repositorio de GitHub](https://github.com/servodevelop/Star-Arm-102) |Próximamente |
+|  <img src="./hardware/reBot_B601_DM/3D_Printed_Parts/images/star_arm_102.jpg" height="100">  | [Enlace de compra](https://www.seeedstudio.com/Star-Arm-102-p-6765.html) |
+|  [Repositorio de GitHub](https://github.com/servodevelop/Star-Arm-102) | [Enlace de compra](https://www.seeedstudio.com/Star-Arm-102-p-6765.html) |
 
 ### Dedo DIY
 | Dedo blando  |  Abierto a integraciones de compatibilidad  | 

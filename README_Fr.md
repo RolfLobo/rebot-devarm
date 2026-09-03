@@ -212,8 +212,8 @@ reBot-DevArm est conçu pour des applications d’IA incarnée sur bureau, en é
 ### Compatible avec le bras Leader
 | Star Arm 102-LD | Ouvert à l'intégration et la compatibilité |
 | --- | --- |
-|  <img src="/hardware/reBot_B601_DM/3D_Printed_Parts/images/star_arm_102.jpg" height="100">  | Bientôt disponible |
-|  [Dépôt Github](https://github.com/servodevelop/Star-Arm-102) | Bientôt disponible |
+|  <img src="/hardware/reBot_B601_DM/3D_Printed_Parts/images/star_arm_102.jpg" height="100">  | [Lien d'achat](https://www.seeedstudio.com/Star-Arm-102-p-6765.html) |
+|  [Dépôt Github](https://github.com/servodevelop/Star-Arm-102) | [Lien d'achat](https://www.seeedstudio.com/Star-Arm-102-p-6765.html) |
 
 
 ### Doigt souple DIY
