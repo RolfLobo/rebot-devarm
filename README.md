@@ -4,7 +4,9 @@
 
 **The Open-Source Robotic Arm for Every Developer**
 
-[![OSHWA-Certified](media/certification-mark-CN000024-wide.png)](https://certification.oshwa.org/cn000024.html)
+<img src="./media/RS5_56.png" alt="reBot-DevArm Banner" width="1000">
+
+<a href="https://certification.oshwa.org/cn000024.html"><img src="./media/certification-mark-CN000024-wide.png" alt="OSHWA Certified" width="180"></a>
 
 [![Hardware License: CERN-OHL-W-2.0](https://img.shields.io/badge/License-CERN--OHL--W--2.0--Hardware-green.svg)](./LICENSE)
 [![Software License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0--Software-pink.svg)](./LICENSE)

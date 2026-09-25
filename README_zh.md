@@ -4,7 +4,9 @@
 
 **为每个开发者打造的开源机械臂**
 
-[![OSHWA 开源认证](media/certification-mark-CN000024-wide.png)](https://certification.oshwa.org/cn000024.html)
+<img src="./media/RS5_56.png" alt="reBot-DevArm Banner" width="1000">
+
+<a href="https://certification.oshwa.org/cn000024.html"><img src="./media/certification-mark-CN000024-wide.png" alt="OSHWA 开源认证" width="180"></a>
 
 [![硬件许可：CERN-OHL-W-2.0](https://img.shields.io/badge/License-CERN--OHL--W--2.0--Hardware-green.svg)](./LICENSE)
 [![软件许可：Apache-2.0](https://img.shields.io/badge/License-Apache--2.0--Software-pink.svg)](./LICENSE)
